@@ -136,7 +136,8 @@ void setup() {
 }
 
 void loop() {
-  start();
+  
+    //startu nie ma, powinno podswietlic na czerwono
 
   
 
