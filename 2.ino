@@ -1,5 +1,7 @@
 #include <LiquidCrystal.h>
 
+//EDIT
+
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);  
 
 
@@ -134,7 +136,8 @@ void setup() {
 }
 
 void loop() {
-  start();
+  
+    //startu nie ma, powinno podswietlic na czerwono
 
   
 
